@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+.venv*/
+.venv*/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+*.log
+**/.pytest_cache/
+**/.mypy_cache/
+
+# Data/volumes
+pgdata/
+meili/
